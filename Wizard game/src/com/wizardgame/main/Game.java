@@ -8,7 +8,7 @@ import java.awt.image.BufferStrategy;
 import java.awt.image.BufferedImage;
 
 public class Game extends Canvas implements Runnable {
-
+	//TODO: look this up
 	private static final long serialVersionUID = 1L;
 
 	private boolean isRunning = false;
